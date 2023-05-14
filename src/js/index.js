@@ -9,6 +9,6 @@ btnAlterarTema.addEventListener("click", () => {
         imagemTrocaTema.setAttribute("src", "./src/image/sun.png");
     } else {
         body.classList.add("modo-escuro");
-        imagemTrocaTema.setAttribute("src", "./src/image/moon.png");
+        imagemTrocaTema.setAttribute("src", "./src/image/lua1.png");
     }
 });

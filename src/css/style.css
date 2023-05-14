@@ -2,12 +2,16 @@ body{
     font-family: 'Poppins', sans-serif;
     max-width: 1280px;
     margin: 0 auto;
-    background-color: #5E5B5BAD;
+    /* background-color: #5E5B5BAD; */
+    background: url(../image/fundo-dia.png)center center no-repeat;
+    background-size: cover;
     color: #333333;
 }
 
 body.modo-escuro{
-    background-color: #212121;
+    /* background-color: #212121; */
+    background: url(../image/fundo-noite.jpeg)center center no-repeat;
+    background-size: cover;
     color: #F5F5F5;
 }
 
