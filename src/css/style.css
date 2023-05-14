@@ -22,7 +22,10 @@ header{
     padding: 25px;
 }
 
-header .logo,
+header .logo{
+    width: 150px;
+}
+
 header .imagem-botao{
     width: 40px;
     transition: 0.2s ease-in-out
